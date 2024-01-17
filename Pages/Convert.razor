@@ -1,0 +1,31 @@
+﻿@page "/konvertering"
+
+<h3>Längdkonvertering: Meter till Fot</h3>
+<input type="number" @bind="@meters" placeholder="Ange längd i meter" />
+<button @onclick="ConvertToFeet">Konvertera till Fot</button>
+<p>Resultat i fot: @resultInFeet</p>
+
+<h3>Hastighetskonvertering: km/h till miles/hour</h3>
+<input type="number" @bind="@kmPerHour" placeholder="Ange hastighet i km/h" />
+<button @onclick="ConvertToMpH">Konvertera till Miles/hour</button>
+<p>Resultat i Miles/hour: @resultInMilesPerHour</p>
+
+@code {
+    private double meters;
+    private double resultInFeet;
+
+    private double kmPerHour;
+    private int resultInMilesPerHour;
+
+    private void ConvertToFeet()
+    {
+        const double feetInMeter = 3.28084;
+        resultInFeet = Math.Round(meters * feetInMeter, 2);
+    }
+
+    private void ConvertToMpH()
+    {
+        const double milesPerKm = 0.621371;
+        resultInMilesPerHour = (int)Math.Round(kmPerHour * milesPerKm);
+    }
+}

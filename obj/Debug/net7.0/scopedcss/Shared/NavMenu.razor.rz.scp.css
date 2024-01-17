@@ -1,14 +1,17 @@
 .navbar-toggler[b-hbbp6g3evc] {
-    background-color: rgba(255, 255, 255, 0.1);
+    color: #1b1b1b;
+}
+.ham-menu[b-hbbp6g3evc] {
+    background-color: #525252;
 }
 
 .top-row[b-hbbp6g3evc] {
-    height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .1);
 }
 
 .navbar-brand[b-hbbp6g3evc] {
     font-size: 1.1rem;
+    color: #000000;
 }
 
 .oi[b-hbbp6g3evc] {
@@ -32,7 +35,7 @@
     }
 
     .nav-item[b-hbbp6g3evc]  a {
-        color: #d7d7d7;
+        color: #1b1b1b;
         border-radius: 4px;
         height: 3rem;
         display: flex;
@@ -40,15 +43,7 @@
         line-height: 3rem;
     }
 
-.nav-item[b-hbbp6g3evc]  a.active {
-    background-color: rgba(255,255,255,0.25);
-    color: white;
-}
 
-.nav-item[b-hbbp6g3evc]  a:hover {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
-}
 
 @media (min-width: 641px) {
     .navbar-toggler[b-hbbp6g3evc] {

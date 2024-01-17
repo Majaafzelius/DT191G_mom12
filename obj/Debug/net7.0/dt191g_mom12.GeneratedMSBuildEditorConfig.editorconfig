@@ -20,16 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/Convert.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/Json.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnNvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/xampp/htdocs/DT191G/dt191g_mom12/Shared/SurveyPrompt.razor]
