@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6mzBU7IQ8AgnPU7JTyazMm4Q0vSP8nkhA/NoW8GAYio=",
+  "Hash": "58QT/6EWPOTgZkC55hHXlEn+OgOxGFnoha0Z/N33NlQ=",
   "Source": "dt191g_mom12",
   "BasePath": "/",
   "Mode": "Root",
@@ -7157,12 +7157,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\xampp\\htdocs\\DT191G\\dt191g_mom12\\wwwroot\\sample-data\\weather.json",
+      "Identity": "C:\\xampp\\htdocs\\DT191G\\dt191g_mom12\\wwwroot\\sample-data\\sample.json",
       "SourceId": "dt191g_mom12",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\xampp\\htdocs\\DT191G\\dt191g_mom12\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
+      "RelativePath": "sample-data/sample.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7171,7 +7171,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+      "OriginalItemSpec": "wwwroot\\sample-data\\sample.json"
     }
   ]
 }

@@ -73,8 +73,8 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\xampp\\htdocs\\DT191G\\dt191g_mom12\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+      "Id": "C:\\xampp\\htdocs\\DT191G\\dt191g_mom12\\wwwroot\\sample-data\\sample.json",
+      "PackagePath": "staticwebassets\\sample-data\\sample.json"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.dt191g_mom12.props",
