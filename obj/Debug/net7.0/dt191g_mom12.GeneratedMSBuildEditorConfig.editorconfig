@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = dt191g_mom12
 build_property.RootNamespace = dt191g_mom12
-build_property.ProjectDir = C:\xampp\htdocs\DT191G\dt191g_mom12\
+build_property.ProjectDir = C:\xampp\htdocs\dt191g\dt191g_mom12\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\xampp\htdocs\DT191G\dt191g_mom12
+build_property.MSBuildProjectDirectory = C:\xampp\htdocs\dt191g\dt191g_mom12
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/App.razor]
+[C:/xampp/htdocs/dt191g/dt191g_mom12/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/Convert.razor]
+[C:/xampp/htdocs/dt191g/dt191g_mom12/Pages/Convert.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/Index.razor]
+[C:/xampp/htdocs/dt191g/dt191g_mom12/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Pages/Json.razor]
+[C:/xampp/htdocs/dt191g/dt191g_mom12/Pages/Json.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnNvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+[C:/xampp/htdocs/dt191g/dt191g_mom12/Shared/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbnRhY3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/_Imports.razor]
+[C:/xampp/htdocs/dt191g/dt191g_mom12/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Shared/MainLayout.razor]
+[C:/xampp/htdocs/dt191g/dt191g_mom12/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-o2iwrs4dl5
 
-[C:/xampp/htdocs/DT191G/dt191g_mom12/Shared/NavMenu.razor]
+[C:/xampp/htdocs/dt191g/dt191g_mom12/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hbbp6g3evc

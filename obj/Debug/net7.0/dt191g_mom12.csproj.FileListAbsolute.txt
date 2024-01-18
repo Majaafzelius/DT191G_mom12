@@ -806,8 +806,6 @@ C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\build-gz\sXMQ6GXU.gz
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\build-gz\OiXu+PoT.gz
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\build-gz\C3NiOWF+.gz
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\build-gz\B7RvtuP7.gz
-C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\build-gz\aWNa4L4X.gz
-C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\build-gz\61mxbzVh.gz
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\build-gz\T57TWRCz.gz
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\blazor.boot.json
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\staticwebassets\msbuild.dt191g_mom12.Microsoft.AspNetCore.StaticWebAssets.props
@@ -826,3 +824,5 @@ C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\dt191g_mom12.dll
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\refint\dt191g_mom12.dll
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\dt191g_mom12.pdb
 C:\xampp\htdocs\DT191G\dt191g_mom12\obj\Debug\net7.0\ref\dt191g_mom12.dll
+C:\xampp\htdocs\dt191g\dt191g_mom12\obj\Debug\net7.0\build-gz\FNeVC+h1.gz
+C:\xampp\htdocs\dt191g\dt191g_mom12\obj\Debug\net7.0\build-gz\U6jDIHQV.gz
