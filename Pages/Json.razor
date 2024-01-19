@@ -37,14 +37,14 @@ else
 }
 
 @code {
-    private Weathergame[]? games;
+    private Game[]? games;
 
     protected override async Task OnInitializedAsync()
     {
-        games = await Http.GetFromJsonAsync<Weathergame[]>("sample-data/sample.json");
+        games = await Http.GetFromJsonAsync<Game[]>("sample-data/sample.json");
     }
 
-    public class Weathergame
+    public class Game
     {
         public string Title { get; set; }
         public int Hours { get; set; }
